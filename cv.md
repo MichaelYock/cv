@@ -65,11 +65,11 @@ Primarily responsible for recruiting and overseeing volunteer English teachers f
 This role involved wearing many hats; equal parts online marketing, recruitment, community and partnerships, and project management.<br>
 Contributed to operation decisions as part of the management team, and was involved in a number of other CRDT rural development projects and consultations.<br>
 
-- Increased online recruitment rates 400%.<br>
+- Reworked website and marketing channels to increase online recruitment rates 400%.<br>
 
-- Oversaw record high student enrollment.<br>
+- Recruited and on-boarded over 100 English language teachers.<br>
 
-- Established new campus in Kratie province, Cambodia.<br>
+- Lead pilot establishing new English language centre in rural Cambodia.<br>
 
 - Headed department of four direct reports and up to 30 volunteer English Teachers.<br>
 
