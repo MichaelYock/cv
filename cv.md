@@ -38,7 +38,7 @@ Working with a number of clients to create and enhance online experiences with w
 
 Contract Web Administrator @ **[Urban Living Solutions](https://www.urbanlivingsolutions.com/)**<br>
 *June 2020 - December 2020*<br>
-Managed a number of web properties for property development firm, including sys admin, web development, analytics, troubleshooting, etc.<br>
+Managed a number of web properties for real estate and lifestyle development firm in Cambodia, including sys admin, web development, analytics, troubleshooting, etc.<br>
 
 - Intergrated analytics tracking and reporting across all web properties.<br>
 
@@ -47,8 +47,8 @@ Managed a number of web properties for property development firm, including sys 
 
 Contract Development Team Lead @ **[WavySupport](https://web.archive.org/web/20180810020109/http://wavysupport.com/)**<br>
 *June 2016 - April 2017*<br>
-Lead a small inhouse team of designers and developers for inbound eCommerce support specialist based in Cambodia, creating and maintaing eCommerce stores for clients internationally.<br>
-Responsible for a number of client web properties, as well as company websites and internal tools.<br>
+Managed technical team for marketing and customer support outsourcing agency, primarily for large eCommerce clients.<br>
+Responsible for a number of client web properties, building and optimizing Landing and Product pages on Shopify platform, overseeing new product launches, and internal tools.<br>
 
 - Implemented affiliate programme, driving successful influencer campaigns for eCommerce client.<br>
 
