@@ -16,7 +16,7 @@ Javascript, Typescript, React, Vue, Node (Nodejs), Python, Go (Golang), Solidity
 
 Frontend engineer with a product mindset. I’ve been developing software and web products as a contractor and freelancer since 2016. My experience is mostly in SME websites, inhouse tools, and automations.<br>
 
-My job is to deliver working, well tested, and maintainable solutions that follow industry best practices and standards. Where possible, I prefer to share & open source my projects. In my personal time I am active in my local developer communities, I enjoy hackathons, game jams, and start-up weekends. I follow a number of blogs and websites to keep up with new trends and technologies.<br>
+I deliver working, well tested, and maintainable solutions that follow industry best practices and standards. Where possible, I prefer to share & open source my projects. In my personal time I am active in my local developer communities, I enjoy hackathons, game jams, and start-up weekends. I follow a number of blogs and websites to keep up with new trends and technologies.<br>
 
 
 ## Professional History
