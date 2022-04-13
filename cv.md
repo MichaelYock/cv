@@ -81,7 +81,7 @@ Bachelor of Fine Arts<br>
 *Multimedia and Scultpure*<br>
 
 A Bursary and University Entrance<br>
-*2003 Senior college of New Zealand (Elam)*<br>
+*2003 Senior college of New Zealand*<br>
 
 
 ## Personal Interests
