@@ -9,7 +9,7 @@
 **Github:** [github.com/michaelyock](https://github.com/michaelyock)<br>
 
 ## Skills
-Javascript, Typescript, React, Vue, Node (Nodejs), Python, Go (Golang), Solidity, CI/CD, Bash, SQL, Git, Shell<br>
+Javascript, Typescript, React, Vue, Node (Nodejs), Python, Go (Golang), Solidity, SQL, Bash, Git, CI/CD, Shell<br>
 
 
 ## Profile
@@ -29,7 +29,7 @@ Working with a number of clients to create and enhance online experiences with w
 
 - Built inhouse SMS marketing tool with Node and Twilio API.<br>
 
-- Cut client hosting costs 10x by migrating from abandonware CMS to Wordpress.<br>
+- Cut client hosting costs 10x by migrating from abandonware CMS to JAMStack<br>
 
 - Implemented cryptocurrency payments on custom content platform using Coinbase.<br>
 
@@ -79,6 +79,9 @@ Contributed to operation decisions as part of the management team, and was invol
 Bachelor of Fine Arts<br>
 *2009 University of Auckland (Elam)*<br>
 *Multimedia and Scultpure*<br>
+
+A Bursary and University Entrance<br>
+*2003 Senior college of New Zealand (Elam)*<br>
 
 
 ## Personal Interests
